@@ -24,7 +24,7 @@ This is a Java program that allows users to generate hashes for text inputs and 
 1. Clone this repository to your local machine:
 
     bash
-    git clone https://github.com/yourusername/enhanced-hashing-program.git
+    git clone https://github.com/Adnan1902/Enhanced_Hashing_Algorithms.git
     
 
 2. Navigate to the project folder:
